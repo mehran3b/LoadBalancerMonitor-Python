@@ -1,5 +1,4 @@
-# OPS435 Assignment 2
-# load_balancer_monitor_mebrahimi22.py
+# load_balancer_monitor.py
 # Author: Mehran Ebrahimi
 
 import subprocess
